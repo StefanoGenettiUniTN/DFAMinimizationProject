@@ -3,12 +3,12 @@ University of Trento<br>
 Academic Year 2021/2022<br>
 Project for Compilers course<br>
 # Abstract
-In this document I present an implementation of the Watson-Daciuk’s Deterministic Finite Automata
+In this repository it is proposed an implementation of the Watson-Daciuk’s Deterministic Finite Automata
 (DFA) minimization algorithm. The algorithm functionality is based on the contents illustrated
-in the paper ”An efficient incremental DFA minimization algorithm” 1 (hereafter called the paper)
+in the paper ”An efficient incremental DFA minimization algorithm”
 written by Bruce W. Watson and Jan Daciuk.
 The code has been fully written in C programming language.
-I assume that the DFA minimization problem is well known by the reader.
+I assume that the DFA minimization problem is well known by the reader. Together with the implementation code there is also a Report pdf document to better understand the context.
 At the beginning of this document the attention is on the key aspects of the Watson-Daciuk’s
 algorithm. The purpose of the following sections is to reason about data structures used in the
 actual implementation, efficiency and optimization strategies that has been adopted. Then there

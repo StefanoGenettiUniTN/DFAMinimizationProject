@@ -1,0 +1,17 @@
+PARTITION[0]
+{
+4
+}
+PARTITION[1]
+{
+3
+}
+PARTITION[2]
+{
+0
+2
+}
+PARTITION[3]
+{
+1
+}
